@@ -1,0 +1,51 @@
+﻿# Dashboards and Interactive Visuals
+
+## Purpose
+Study dashboards and interactive visuals to explore data systematically and communicate patterns without misleading the audience.
+
+## Prerequisites
+Complete **Exploratory Plotting with Python** or demonstrate equivalent knowledge.
+
+## Detailed topic checklist
+- [ ] Dashboard purpose
+- [ ] Layout
+- [ ] Filters
+- [ ] Interactions
+- [ ] Metrics
+- [ ] Refresh
+- [ ] Performance
+- [ ] Tableau/Power BI/Plotly concepts
+- [ ] User testing.
+
+## Important concepts and definitions
+- **Dashboard purpose:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **Layout:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **Filters:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **Interactions:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **Metrics:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **Refresh:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **Performance:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **Tableau/Power BI/Plotly concepts:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+- **User testing.:** Learn the definition, when it applies, assumptions, common failure modes, and how to recognize it in practice.
+
+## Practical implementation requirements
+- Create a small, version-controlled implementation using an appropriate tool or dataset.
+- Record inputs, assumptions, units, versions, and decisions; keep the work reproducible.
+- Validate outputs with a second method, invariants, tests, or hand-worked examples.
+- Explain one limitation and one likely failure mode.
+
+## Exercises and problem-solving tasks
+- Visualization principles; SQL helpful.
+- Implement one small exercise for each checklist item; include at least one edge case.
+- Write a short explanation of a common misconception and how you checked your result.
+
+## Expected learning outcomes
+- Build a focused dashboard and test whether users can answer its key question.
+- Select an appropriate method and state its assumptions.
+- Explain results clearly and identify when more study or expert review is needed.
+
+## Completion criteria
+- [ ] Complete and explain every item in the detailed checklist.
+- [ ] Finish the practical task and exercises in a fresh run.
+- [ ] Save code/notes with sources and reproducibility instructions.
+- [ ] Pass a self-review: explain the key ideas without notes and identify limitations.
